@@ -1,0 +1,6 @@
+echo "Xuy" > hell.txt
+
+
+
+
+\\\
